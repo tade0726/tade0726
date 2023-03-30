@@ -14,6 +14,6 @@ I'm Ted Zhao, a Machine Learning Engineer and Data Scientist with over 5 years o
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: My wife think I am not 'romantic'! (What she really means, I am too rational) 
+⚡ Fun fact: My wife think I am not 'romantic'! (What she really means, I am too rational.) 
 
 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/ted-zhao) and check out my resume on [Resume](https://github.com/tade0726/tedzhao-resume)
