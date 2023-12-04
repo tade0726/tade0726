@@ -10,7 +10,7 @@ I'm Ted Zhao, a Machine Learning Engineer and Data Scientist with over 5 years o
 
 💬 Feel free to ask me about my work experiences, which include developing and improving recommendation systems, designing and implementing data pipelines, and conducting AB tests for various applications.
 
-📫 You can reach me through my email: zp4work+dev@gmail.com
+📫 You can reach me through my email: zp4work at gmail.com
 
 😄 Pronouns: He/Him
 
